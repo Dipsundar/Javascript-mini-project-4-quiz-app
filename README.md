@@ -12,4 +12,4 @@ Quiz app using Html, Css, Js
 - Css
 - Javascript
 
-### [Click here to see the project demo]()
+### [Click here to see the project demo](https://dipsundar.github.io/Javascript-mini-project-4-quiz-app/)
